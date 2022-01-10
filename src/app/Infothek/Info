@@ -1,0 +1,32 @@
+-formatiert nicht mehr?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-bei Angular kein con/let/var usw. nötig
+
+-this immer vor einer function
+
+-in html mit {{}} in src Variablen einfügen
+
+-mit Angular eine if else Abfrage kann man mit ngIf="" einsetzen
+eine beliebige expression(Vergleich) sein kann die entweder true oder false ist
+eine bollier Variable
+
+-setInterval(() => {}, z.B.); für wiederholungen
+-setTimeout(()=> {}, z.B.);

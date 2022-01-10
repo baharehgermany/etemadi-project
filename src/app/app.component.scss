@@ -1,0 +1,24 @@
+.slideshow-container {
+    height: 100vh;
+    width: 100vw;
+    max-width: 100%;
+    overflow: hidden; //alles was aus dem container läuft ausblenden(wenn gewünscht)
+}
+
+.img-slideshow {
+    height: 100vh;
+    width: 100vw;
+    max-width: 100%; //wegen scrolltaste
+    object-fit: cover;
+    animation: zoomIn 8s ease; //animation 1sec einzoomen (ease=einmalig infinite=dauerhaft wenn in html)
+}
+
+//animation scallieren
+@keyframes zoomIn {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.2); //ins 1,2 fache
+    }
+}
