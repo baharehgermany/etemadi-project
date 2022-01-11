@@ -30,3 +30,11 @@ eine bollier Variable
 
 -setInterval(() => {}, z.B.); für wiederholungen
 -setTimeout(()=> {}, z.B.);
+
+-keyframe immer zum animieren in scss nehmen
+
+in scss (css und scss)
+-position absolute um elemente auf dem selben cover zu legen
+-mehrere Elemente ein class name geben(Klassenname weiter vergeben)
+-mehrere class name einem Element geben(class="1.name 2.name")
+-in eine classe die unterelemente mit einfügen
